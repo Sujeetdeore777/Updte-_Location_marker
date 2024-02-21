@@ -42,8 +42,11 @@ Location Marker is a full-stack application built using Django Rest Framework (D
    cd map-app
    npm start
 
-![image](https://github.com/Sujeetdeore777/Location_marker/assets/118282006/fff40f66-1310-4283-93f2-1cdbaf97d890)
-![image](https://github.com/Sujeetdeore777/Location_marker/assets/118282006/592e1ac8-d848-423b-b523-8985a65a8cf6)
+![image](https://github.com/Sujeetdeore777/Updte-_Location_marker/assets/118282006/34be1c38-02d8-4598-893a-06c670ab4185)
+![image](https://github.com/Sujeetdeore777/Updte-_Location_marker/assets/118282006/434352cb-f4de-46be-9a1e-39bc8c7f411d)
+![image](https://github.com/Sujeetdeore777/Updte-_Location_marker/assets/118282006/e627054d-a175-4cae-83ba-235ff97b79c6)
+
+
 
 
 
